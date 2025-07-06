@@ -1,8 +1,8 @@
-import asyncio
+from config import BOT_TOKEN, CHANNEL_ID, RSS_URL
 from telegram import Bot
+import asyncio
 from fetcher import fetch_news
 from filter import is_relevant
-from config import BOT_TOKEN, CHANNEL_ID
 
 bot = Bot(token=BOT_TOKEN)
 
