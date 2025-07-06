@@ -1,3 +1,3 @@
 # Movie News Bot
 
-Python project for parsing news sites and publishing posts in Telegram
+Python проект для парсинга сайтов и публикации постов в Telegram
